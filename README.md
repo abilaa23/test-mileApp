@@ -18,3 +18,5 @@
     - Setiap langkah-langkah dalam suatu fitur harus dijelaskan secara rinci dan detail.
     - Seorang QA harus mempunyai mindset menjadi seorang USER yang akan memakai atau membeli produk tersebut.
     
+Skenario Test UI dan API
+- [Skenario Test UI dan API](https://docs.google.com/spreadsheets/d/1W3roCLrB_uSvgzcOA-1MBj1pHdeGjqwX7-0Rz5Nv95c/edit#gid=0)
